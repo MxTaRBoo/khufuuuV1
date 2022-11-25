@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "khufu",
+  "author": "Eltarboo",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
